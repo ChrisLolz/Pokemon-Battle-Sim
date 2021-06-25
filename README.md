@@ -1,2 +1,2 @@
 # Pokemon-Battle-Sim
-final summative for ap 11 cs
+Sadly didn't get to fully finish and comment throughly the game due to time constraints :(
